@@ -1,4 +1,6 @@
-#include "print_random.c"
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
 char randchar(){
   int min = 65;
