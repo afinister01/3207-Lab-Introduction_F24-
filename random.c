@@ -1,3 +1,5 @@
+#include "print_random.c"
+
 char randchar(){
   int min = 65;
   int max = 90;
